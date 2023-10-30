@@ -1,6 +1,6 @@
 # Nozel's-file-sharing-Modified
 
-![image](https://github.com/Sahil0976/Multi-ForceSub/assets/97865856/6c1d7745-21eb-476e-a27b-1294c329f834)
+![image](https://github.com/Sahil0976/Multi-ForceSub-bot/assets/97865856/335a6aae-c25b-4457-8bbd-5e4950c18aea)
 
 
 <b>A Telegram Special File Sharing Bot Who Made A Link Of File And You Can Access File Through Link.</b>
