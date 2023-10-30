@@ -39,7 +39,7 @@
 ##
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Sahil0976/Nozel-s_Sharing_bot
+git clone https://github.com/Sahil0976/Multi-ForceSub
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
