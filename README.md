@@ -17,6 +17,7 @@
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
 - Can be deployed on heroku directly.
+- Can be deployed in render also.
 
 ### Setup
 
