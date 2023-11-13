@@ -9,7 +9,7 @@ TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6678356956:AAEFJUTb44ciVYvJh_ve0X
 APP_ID = int(os.environ.get("APP_ID", "23562768"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "1b40c01ae078463626e1b4e8fe78e3a5")
 
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001583779155"))
@@ -21,8 +21,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "1078225192"))
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://mongodb091:mL5von9HmS6lDleu@cluster0.zavutq0.mongodb.net/?retryWrites=true&w=majority")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "0"))
-FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "0"))
+FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1001787756233"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1001926145245"))
 
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
